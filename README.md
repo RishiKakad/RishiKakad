@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishi Kakad
-- 👀 I’m interested in ...collaborative coding along with automation deployment using Jenkins and docker
-- 🌱 I’m currently learning Jenkins
-- 💞️ I’m looking to collaborate on automated depolyment using jenkins on Github
+- 👀 I’m interested in collaborative coding along with python and building uniques solution to everyday problems.
+- 🌱 I’m currently learning in greater depth for API creation in Python
+- 💞️ I’m looking to collaborate on projects with python and backend development.
 - 📫 How to reach me rishikakad7@gmail.com
 
 <!---
